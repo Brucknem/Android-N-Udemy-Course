@@ -1,4 +1,4 @@
-package com.marcelbruckner.demoapp;
+package com.marcelbruckner.connect3;
 
 import org.junit.Test;
 

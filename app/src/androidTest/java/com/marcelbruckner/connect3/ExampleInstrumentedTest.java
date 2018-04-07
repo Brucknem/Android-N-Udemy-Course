@@ -1,4 +1,4 @@
-package com.marcelbruckner.demoapp;
+package com.marcelbruckner.connect3;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.marcelbruckner.demoapp", appContext.getPackageName());
+        assertEquals("com.marcelbruckner.connect3", appContext.getPackageName());
     }
 }
